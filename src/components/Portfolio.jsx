@@ -22,9 +22,9 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      src: navbar,
-      demoLink: "https://your-demo-link",
-      codeLink: "https://your-github-link",
+      src: Xpod,
+      demoLink: "https://smm-two.vercel.app",
+      codeLink: "https://github.com/osi-102",
     },
     {
       id: 4,
