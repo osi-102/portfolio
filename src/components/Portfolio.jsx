@@ -4,7 +4,7 @@ import Cyclone_Eye from "../assets/portfolio/Cyclone_Eye.png";
 import Xpod from "../assets/portfolio/Xpod.jpeg";
 import installNode from "../assets/portfolio/installNode.jpg";
 // import navbar from "../assets/portfolio/navbar.jpg";
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
+import myntra from "../assets/portfolio/myntra.png";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
 const Portfolio = () => {
@@ -29,9 +29,9 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      src: reactSmooth,
-      demoLink: "https://your-demo-link",
-      codeLink: "https://your-github-link",
+      src: myntra,
+      demoLink: "https://myntra-clone-1.vercel.app",
+      codeLink: "https://github.com/osi-102/Myntra-Clone",
     },
     {
       id: 5,
