@@ -1,7 +1,7 @@
 import React from "react";
 import Sokoban from "../assets/portfolio/Sokoban.png";
 import Cyclone_Eye from "../assets/portfolio/Cyclone_Eye.png";
-import Xpod from "../assets/portfolio/Xpod.jpeg";
+import Xpod from "../assets/portfolio/Xpod.png";
 import installNode from "../assets/portfolio/installNode.jpg";
 // import navbar from "../assets/portfolio/navbar.jpg";
 import myntra from "../assets/portfolio/myntra.png";
@@ -33,18 +33,18 @@ const Portfolio = () => {
       demoLink: "https://myntra-clone-1.vercel.app",
       codeLink: "https://github.com/osi-102/Myntra-Clone",
     },
-    {
-      id: 5,
-      src: installNode,
-      demoLink: "https://your-demo-link",
-      codeLink: "https://your-github-link",
-    },
-    {
-      id: 6,
-      src: reactWeather,
-      demoLink: "https://your-demo-link",
-      codeLink: "https://your-github-link",
-    },
+    // {
+    //   id: 5,
+    //   src: installNode,
+    //   demoLink: "https://your-demo-link",
+    //   codeLink: "https://your-github-link",
+    // },
+    // {
+    //   id: 6,
+    //   src: reactWeather,
+    //   demoLink: "https://your-demo-link",
+    //   codeLink: "https://your-github-link",
+    // },
   ];
 
   const handleButtonClick = (link) => {
